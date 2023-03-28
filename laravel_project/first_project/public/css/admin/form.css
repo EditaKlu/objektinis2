@@ -1,0 +1,17 @@
+.old-images-block {
+    display: inline-block;
+    vertical-align: top;
+    padding: 10px;
+}
+
+.old-images-block img {
+    height: 150px;
+    width: 100%;
+    object-fit: cover;
+}
+
+.old-images-block label {
+    font-size: 0.7em;
+    word-break: break-all;
+    width: 100%;
+}
